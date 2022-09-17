@@ -1,4 +1,4 @@
-## Connect-Web Production
+## Connect Web
 
 Welcome to Connect- A way for developers to **connect** with eachother in a simple and united way.
 
